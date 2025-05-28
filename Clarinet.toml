@@ -15,10 +15,6 @@ path = 'contracts/human-oversight.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.human-oversight_]
-path = 'contracts/human-oversight_.clar'
-clarity_version = 2
-epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
